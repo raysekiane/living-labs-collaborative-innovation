@@ -1,0 +1,255 @@
+{
+  "schema_version": "1.1",
+  "items": [
+    {
+      "claim_id": "home-title",
+      "site_section_id": "opening",
+      "content_type": "title",
+      "translations": {
+        "pt-BR": {
+          "text": "Living Labs como ambientes colaborativos para a inovação"
+        },
+        "en": {
+          "text": "Living Labs as Collaborative Environments for Innovation"
+        }
+      }
+    },
+    {
+      "claim_id": "home-subtitle",
+      "site_section_id": "opening",
+      "content_type": "subtitle",
+      "translations": {
+        "pt-BR": {
+          "text": "uma proposta de framework"
+        },
+        "en": {
+          "text": "A framework proposal for operations and co-creation in innovation testing."
+        }
+      }
+    },
+    {
+      "claim_id": "context-living-labs",
+      "site_section_id": "living-lab-concepts",
+      "content_type": "paragraph",
+      "translations": {
+        "pt-BR": {
+          "text": "Na tese, os Living Labs são compreendidos como ambientes colaborativos de inovação aberta, nos quais usuários finais e outros stakeholders participam da cocriação, do teste e do refinamento de soluções em contextos reais.\n\nNessa perspectiva, a inovação depende da participação dos atores envolvidos e da interação entre suas experiências, conhecimentos e necessidades. Para compreender como organizar essa dinâmica, a pesquisa distingue duas formas de estruturar um Living Lab: como ambiente contínuo ou como projeto delimitado."
+        },
+        "en": {
+          "text": "In this thesis, Living Labs are understood as collaborative open innovation environments in which end users and other stakeholders participate in the co-creation, testing, and refinement of solutions in real-world contexts.\n\nFrom this perspective, innovation depends on the participation of the actors involved and the interaction between their experiences, knowledge, and needs. To understand how this dynamic can be organized, the research distinguishes two ways of structuring a Living Lab: as a continuous environment or as a defined project."
+        }
+      }
+    },
+    {
+      "claim_id": "context-gap",
+      "site_section_id": "context-problem",
+      "content_type": "paragraph",
+      "translations": {
+        "pt-BR": {
+          "text": "A inovação colaborativa reúne diferentes atores, conhecimentos e experiências, mas transformar essa interação em processos operacionais estruturados continua sendo um desafio. Nos Living Labs, essa necessidade torna-se especialmente relevante quando a inovação é organizada em projetos com objetivos, escopo e duração definidos.\n\nA pesquisa parte dessa lacuna para investigar como estruturar a operação de Living Labs orientados a projetos, articulando práticas colaborativas e processos que apoiem o desenvolvimento de soluções inovadoras."
+        },
+        "en": {
+          "text": "Collaborative innovation brings together different actors, knowledge, and experiences, but transforming these interactions into structured operational processes remains a challenge. In Living Labs, this need becomes particularly relevant when innovation is organized into projects with defined objectives, scope, and duration.\n\nThis research addresses this gap by investigating how to structure the operations of project-oriented Living Labs, connecting collaborative practices with processes that support the development of innovative solutions."
+        }
+      }
+    },
+    {
+      "claim_id": "context-llase",
+      "site_section_id": "environment-project-distinction",
+      "content_type": "concept",
+      "translations": {
+        "pt-BR": {
+          "text": "Os Living Labs podem assumir configurações distintas para organizar a colaboração em inovação. O LLasE (Living Lab as Environment) corresponde a um ambiente contínuo, sustentado por infraestrutura, relações entre stakeholders e atividades sem encerramento previamente definido."
+        },
+        "en": {
+          "text": "Living Labs can take different forms to organize collaboration for innovation. LLasE (Living Lab as Environment) refers to a continuous environment supported by infrastructure, stakeholder relationships, and activities without a predefined end date."
+        }
+      }
+    },
+    {
+      "claim_id": "context-llasp",
+      "site_section_id": "environment-project-distinction",
+      "content_type": "concept",
+      "translations": {
+        "pt-BR": {
+          "text": "Já o LLasP (Living Lab as a Project) estrutura a colaboração em torno de um objetivo delimitado, com escopo e duração determinados. Essa configuração permite concentrar esforços em um desafio específico e orienta o foco do framework proposto nesta pesquisa."
+        },
+        "en": {
+          "text": "LLasP (Living Lab as a Project), in contrast, structures collaboration around a specific objective, with a defined scope and duration. This configuration makes it possible to focus efforts on a particular challenge and defines the focus of the framework proposed in this research."
+        }
+      }
+    },
+    {
+      "claim_id": "approach-dsr",
+      "site_section_id": "methodology",
+      "content_type": "paragraph",
+      "translations": {
+        "pt-BR": {
+          "text": "A pesquisa adotou a Design Science Research (DSR), abordagem orientada à construção e avaliação de artefatos para problemas relevantes em contextos específicos. O framework foi desenvolvido a partir da integração entre conhecimento científico e evidências empíricas sobre a operação de Living Labs."
+        },
+        "en": {
+          "text": "The research adopted Design Science Research (DSR), an approach focused on constructing and evaluating artifacts to address relevant problems in specific contexts. The framework was developed by integrating scientific knowledge with empirical evidence on Living Lab operations."
+        }
+      }
+    },
+    {
+      "claim_id": "approach-survey",
+      "site_section_id": "methodology",
+      "content_type": "method-step",
+      "translations": {
+        "pt-BR": {
+          "text": "O levantamento com 11 representantes de Living Labs brasileiros identificou práticas, desafios e soluções implementadas."
+        },
+        "en": {
+          "text": "A survey involving 11 representatives of Brazilian Living Labs identified implemented practices, challenges, and solutions."
+        }
+      }
+    },
+    {
+      "claim_id": "approach-focus-group",
+      "site_section_id": "methodology",
+      "content_type": "method-step",
+      "translations": {
+        "pt-BR": {
+          "text": "Em seguida, um grupo focal com quatro especialistas contribuiu para validar e refinar os elementos identificados e a estrutura proposta."
+        },
+        "en": {
+          "text": "A focus group with four experts then helped validate and refine the identified elements and the proposed structure."
+        }
+      }
+    },
+    {
+      "claim_id": "approach-ranking",
+      "site_section_id": "methodology",
+      "content_type": "method-step",
+      "translations": {
+        "pt-BR": {
+          "text": "Por fim, 15 especialistas avaliaram a importância percebida das atividades propostas, com apoio da técnica Random Forest Importance, contribuindo para a priorização dos elementos do framework."
+        },
+        "en": {
+          "text": "Finally, 15 experts assessed the perceived importance of the proposed activities using Random Forest Importance, contributing to the prioritization of framework elements."
+        }
+      }
+    },
+    {
+      "claim_id": "approach-contribution",
+      "site_section_id": "framework-contribution",
+      "content_type": "paragraph",
+      "translations": {
+        "pt-BR": {
+          "text": "A pesquisa propõe um framework para apoiar a operação de Living Labs orientados a projetos (LLasP), sistematizando elementos que contribuem para estruturar iniciativas colaborativas de inovação.\n\nA proposta conecta fundamentos teóricos, práticas observadas e avaliação de especialistas, oferecendo uma referência para organizar a colaboração em torno de desafios e objetivos delimitados. Ao considerar a importância relativa dos elementos propostos, o framework também contribui para compreender quais aspectos merecem maior atenção na condução dessas iniciativas.\n\nA avaliação realizada no contexto brasileiro representa uma etapa de análise da proposta. Sua aplicação em situações reais de operação e sua validação em contextos internacionais permanecem como oportunidades para trabalhos futuros."
+        },
+        "en": {
+          "text": "This research proposes a framework to support the operation of project-oriented Living Labs (LLasP), systematizing elements that contribute to structuring collaborative innovation initiatives.\n\nThe proposal connects theoretical foundations, observed practices, and expert assessment, providing a reference for organizing collaboration around defined challenges and objectives. By considering the relative importance of the proposed elements, the framework also helps identify aspects that deserve greater attention when managing these initiatives.\n\nThe assessment conducted in the Brazilian context represents one stage in evaluating the proposal. Its application in real operational settings and validation in international contexts remain opportunities for future research."
+        }
+      }
+    },
+    {
+      "claim_id": "results-framework",
+      "site_section_id": "results-implications",
+      "content_type": "paragraph",
+      "translations": {
+        "pt-BR": {
+          "text": "O principal resultado da pesquisa foi um framework de operação para Living Labs orientados a projetos (LLasP), desenvolvido a partir da integração entre literatura científica, investigação empírica e avaliação de especialistas."
+        },
+        "en": {
+          "text": "The main outcome of this research was an operational framework for project-oriented Living Labs (LLasP), developed by integrating scientific literature, empirical research, and expert assessment."
+        }
+      }
+    },
+    {
+      "claim_id": "results-method-importance",
+      "site_section_id": "results-implications",
+      "content_type": "paragraph",
+      "translations": {
+        "pt-BR": {
+          "text": "Para compreender quais etapas se destacaram na análise, a pesquisa utilizou o método Random Forest Importance. **A importância relativa** permite comparar o peso de cada etapa em relação às demais: quanto maior o índice, maior foi a contribuição daquela etapa para as estimativas produzidas pelo modelo. Portanto, os percentuais não representam taxas de sucesso nem significam que uma etapa seja dispensável quando apresenta um índice menor."
+        },
+        "en": {
+          "text": "To understand which stages stood out in the analysis, the research used the Random Forest Importance method. **Relative importance** allows the weight of each stage to be compared with that of the others: the higher the index, the greater the stage’s contribution to the estimates produced by the model. These percentages do not represent success rates, nor do lower values mean that a stage is unnecessary."
+        }
+      }
+    },
+    {
+      "claim_id": "results-limitation",
+      "site_section_id": "results-implications",
+      "content_type": "paragraph",
+      "translations": {
+        "pt-BR": {
+          "text": "A avaliação foi realizada com especialistas atuantes no contexto brasileiro. A aplicação do framework em situações reais de operação e sua validação em contextos internacionais permanecem como oportunidades para pesquisas futuras."
+        },
+        "en": {
+          "text": "The assessment involved experts working in the Brazilian context. Applying the framework in real operational settings and validating it in international contexts remain opportunities for future research."
+        }
+      }
+    },
+    {
+      "claim_id": "about-author",
+      "site_section_id": "author-profile",
+      "content_type": "author-bio",
+      "translations": {
+        "pt-BR": {
+          "text": "Rayse Kiane de Souza é doutora em Engenharia e Gestão do Conhecimento pela UFSC, graduada em Sistemas de Informação e atua como Coordenadora de Curso e Professora no UniSENAI Florianópolis, na formação de profissionais de tecnologia.\n\nSua trajetória reúne gestão acadêmica, liderança de equipes multidisciplinares, desenvolvimento curricular e criação de projetos pedagógicos para graduação e pós-graduação. Atua na interseção entre inovação, tecnologia e educação superior, com experiência em metodologias ativas, desenvolvimento de software e gestão de produtos digitais."
+        },
+        "en": {
+          "text": "Rayse Kiane de Souza holds a PhD in Knowledge Engineering and Management from UFSC and a bachelor's degree in Information Systems. She works as a Program Coordinator and Professor at UniSENAI Florianópolis, contributing to the education and development of technology professionals.\n\nHer experience combines academic management, multidisciplinary team leadership, curriculum development, and the design of educational programs for undergraduate and graduate studies. Her work lies at the intersection of innovation, technology, and higher education, with experience in active learning methodologies, software development education, and digital product management."
+        }
+      }
+    },
+    {
+      "claim_id": "about-thesis-details",
+      "site_section_id": "full-thesis",
+      "content_type": "paragraph",
+      "translations": {
+        "pt-BR": {
+          "text": "Tese de doutorado desenvolvida no Programa de Pós-Graduação em Engenharia e Gestão do Conhecimento (PPGEGC) da Universidade Federal de Santa Catarina (UFSC). A tese foi desenvolvida dentro do grupo de pesquisa [VIA Estação Conhecimento](https://via.ufsc.br/).\n**Orientadora:** Clarissa Stefani Teixeira\n**Coorientador:** Júlio Monteiro Teixeira\n**Defesa:** 30 de junho de 2025"
+        },
+        "en": {
+          "text": "Doctoral thesis developed within the Graduate Program in Knowledge Engineering and Management at the Federal University of Santa Catarina (UFSC), Brazil. The thesis was developed within the [VIA Estação Conhecimento](https://via.ufsc.br/) research group.\n**Advisor:** Clarissa Stefani Teixeira\n**Co-advisor:** Júlio Monteiro Teixeira\n**Defense:** June 30, 2025"
+        }
+      }
+    },
+    {
+      "claim_id": "about-thesis-link",
+      "site_section_id": "full-thesis",
+      "content_type": "link",
+      "translations": {
+        "pt-BR": {
+          "text": "Acessar a tese completa"
+        },
+        "en": {
+          "text": "Access the full thesis"
+        }
+      },
+      "url": "https://repositorio.ufsc.br/handle/123456789/267553"
+    },
+    {
+      "claim_id": "about-linkedin-link",
+      "site_section_id": "author-profile",
+      "content_type": "link",
+      "translations": {
+        "pt-BR": {
+          "text": "Perfil da autora no LinkedIn"
+        },
+        "en": {
+          "text": "Author profile on LinkedIn"
+        }
+      },
+      "url": "https://www.linkedin.com/in/rayse-souza/"
+    },
+    {
+      "claim_id": "about-lattes-link",
+      "site_section_id": "author-profile",
+      "content_type": "link",
+      "translations": {
+        "pt-BR": {
+          "text": "Perfil da autora no Lattes"
+        },
+        "en": {
+          "text": "Author profile on Lattes"
+        }
+      },
+      "url": "https://lattes.cnpq.br/6773414815554794"
+    }
+  ]
+}
